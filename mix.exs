@@ -22,6 +22,7 @@ defmodule ThaiSpace.MixProject do
   defp deps do
     [
       {:unicode, "~> 1.0"},
+      {:benchee, "~> 1.0"}
     ]
   end
 end
